@@ -25,7 +25,7 @@ C1103,Bhopal,Savings,Salaried,Mobile_App,23,48000,1.5,26,2025-02-27,77420
 C1235,Mumbai,Savings,Salaried,Branch,52,35000,9.0,17,2025-12-05,92420
 C1095,Bhopal,Savings,Salaried,Mobile_App,37,54500,12.1,19,2026-03-26,85920
 C1029,Mumbai,Savings,Salaried,Mobile_App,58,31000,14.4,21,2025-10-15,85200
-C1031,Bhopal,Savings,Self_Employed,Mobile_App,-27,53000,11.2,24,2025-10-20,50320
+C1031,Bhopal,Savings,Self_Employed,Mobile_App,27,53000,11.2,24,2025-10-20,50320
 C1206,Bhopal,Savings,Student,Net_Banking,24,11000,3.0,20,2026-01-07,9950
 C1209,Indore,Savings,Student,Branch,25,11000,2.1,25,2025-12-08,34640
 C1167,Indore,Savings,Salaried,Branch,51,30000,23.7,26,2026-02-06,97460
