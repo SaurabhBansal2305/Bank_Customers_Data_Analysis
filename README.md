@@ -41,6 +41,20 @@ Bank Customers Data Analysis/
 4. Exploratory analysis with charts  
 5. Insights and recommendations
 
+## Key Findings
+1. Average balance: Rs 72,671; median Rs 71,180.
+2. Income vs balance correlation = 0.56; tenure vs balance = 0.61; transactions vs balance = -0.02.
+3. Highest-balance group: Self_Employed (Rs 86,872); lowest: Student (Rs 35,174).
+4. Current accounts average Rs 84,972 vs Rs 70,888 for Savings.
+5. 19 customers are Low Balance; 9 of them are students. Their average tenure is 4.3 years.
+
+## Charts
+![](q1_overall.png) 
+![](q2_heatmap.png) 
+![](q2_scatter.png) 
+![](q3_categories.png) 
+![](q4_low_balance.png)
+
 ## Tools
 Python 3 · pandas · NumPy · matplotlib · seaborn · Jupyter Notebook · Git and GitHub · VS code
 
