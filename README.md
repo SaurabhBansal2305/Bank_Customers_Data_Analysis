@@ -17,21 +17,21 @@ A retail bank's branch and digital teams want to know which customers keep healt
 ## Project Structure
 ```
 Bank Customers Data Analysis/
-|---Data/
-|    |---Raw Data/bank_data.csv
-|    |___Processed Data/bank_data_clean.csv
-|---Documentations/
-|   |---requirements.txt
-|   |---2026B01010297_SaurabhBansal_SRS.docx
-|   |___2026B01010297_SaurabhBansal_PPT.pptx
-|---Images/      (charts saved by notebook)
-|---Notebooks/
-|   |---bank_data.csv
-|   |---bank_data_clean.csv
-|   |---Draft1Day3.ipynb
-|   |---Draft2Day4.ipynb
-|   |___final.ipynb
-|___README.md
+├──Data/
+|    ├──Raw Data/bank_data.csv
+|    └──Processed Data/bank_data_clean.csv
+├──Documentations/
+|   ├──requirements.txt
+|   ├──2026B01010297_SaurabhBansal_SRS.docx
+|   └──2026B01010297_SaurabhBansal_PPT.pptx
+├──Images/      (charts saved by notebook)
+├──Notebooks/
+|   ├──bank_data.csv
+|   ├──bank_data_clean.csv
+|   ├──Draft1Day3.ipynb
+|   ├──Draft2Day4.ipynb
+|   └──final.ipynb
+└──README.md
 ```
 
 ## Steps Followed
