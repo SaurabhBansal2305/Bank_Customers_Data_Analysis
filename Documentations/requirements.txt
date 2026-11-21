@@ -1,0 +1,8 @@
+Python
+pandas
+NumPy
+matplotlib
+seaborn
+Jupyter Notebook
+Git and GitHub
+VS code
